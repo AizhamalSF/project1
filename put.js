@@ -1,1 +1,1 @@
-put smth
+put smth 1
